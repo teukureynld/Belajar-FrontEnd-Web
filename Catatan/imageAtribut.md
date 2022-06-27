@@ -1,4 +1,6 @@
-src = sumber gambar yang disimpan <src = "nama Foto"
+#imageAtribut
+
+src = sumber gambar yang disimpan <src = "nama Foto">
 
 width = lebar (pixel)
 
