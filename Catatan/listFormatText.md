@@ -1,10 +1,10 @@
-<b> = bold , text menjadi tercetak tebal
+<.b> = bold , text menjadi tercetak tebal
 
-<em> = membuat penekanan pada teks (emphasized)
+<.em> = membuat penekanan pada teks (emphasized)
 
-<i> = cetak text menjadi miring
+<.i> = cetak text menjadi miring
 
-<small> text menjadi kecil
+<.small> text menjadi kecil
 
 <.strong> menyatakan teks itu penting
 
@@ -12,8 +12,12 @@
 
 <.sup> membuat teks menjadi superscript (tercetak diatas seperti pangkat)
 
-<.ins> menyatakan text yang diapit <ins> disisipkan
+<.ins> menyatakan text yang diapit <.ins> disisipkan, mirip dengan underline
 
-<.del> menyatakan text yang diapit <del> akan menjadi coret
+<.del> menyatakan text yang diapit <.del> akan menjadi coret
 
 <.mark> menyatakan teks yang di highlighted (ditandai) efeknya mirip stabilo
+
+<.u> tag yang buat underline teks
+
+<.em>
