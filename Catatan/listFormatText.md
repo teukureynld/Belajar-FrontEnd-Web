@@ -20,4 +20,4 @@
 
 <.u> tag yang buat underline teks
 
-<.em>
+<.em> membuat tag menjadi garis miring, mirip dengan <.i> , bedanya em adalah untuk ditekankan
