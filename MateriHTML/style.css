@@ -1,0 +1,13 @@
+table {
+    margin : 0px;
+    padding: 0px;
+    color: brown;
+    text-align: center;
+    position: fixed;
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+    box-sizing: border-box;
+    text-shadow: 10px;
+    table-layout: auto;
+
+}
