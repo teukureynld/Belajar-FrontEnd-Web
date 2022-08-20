@@ -4,7 +4,7 @@ let for_data = ["volvo", "mit" , "max"];
 
 // ini sama tapi mewakili index
 for(let index in for_index) {
-    console.log(index);
+    console.log(for_index[index]);
 }
 
 // ini untuk jika mau langsung cetak array semuanya
