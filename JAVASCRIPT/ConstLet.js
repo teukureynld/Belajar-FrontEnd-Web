@@ -1,6 +1,6 @@
 function getName() {
     //let = variable yang bisa diubah datanya
-    let nama = "Teuku Reynaldi"
+    let nama = "Teuku Reynaldi";
     nama = "Putra";
 
     console.log(nama);
