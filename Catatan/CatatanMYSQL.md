@@ -8,3 +8,5 @@
 
 - UPDATE articles SET tittle = "Keyboard Mechanical 250 ribu adalah merk Digital Alliance" 
   WHERE id=5; < Untuk Mengubah Data yang pada kolum id ke 5 >
+
+  
