@@ -1,15 +1,3 @@
-let nama = "Teuku Reynaldi";
-
-switch(nama) {
-
-    case nama : "Teuku Reynaldi";
-    console.log(nama);
-    break;
-
-    default :
-        console.log("test defai;t")
-}
-
 const a = 5;
 const b = 10;
 
