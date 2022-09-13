@@ -17,9 +17,14 @@ console.log();
 // ! Contoh untuk looping
 const anonymousFunction = function (i) {
     for(i=0; i <= 25; i++) {
-        // console.log(i);
+        console.log(i);
     };
     return `Contoh untuk panggil parameter , ${i};`
 }
 
 anonymousFunction();
+
+const anonymous = function() {
+    console.log("Test");
+}
+anonymous();

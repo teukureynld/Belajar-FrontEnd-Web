@@ -8,9 +8,15 @@
 
         //konsep seperti array, variable tak boleh ada spasi, jika ingin pake class lain, 
         // tinggal ganti index arraynya 
-        let testing_class = document.getElementsByClassName("testing_class");
-        testing_class[0].innerHTML = "class 1";
+        // let testing_class = document.getElementsByClassName("testing_class");
+        // testing_class[0].innerHTML = "class 1";
 
         let testing_class = document.getElementsByClassName("testing_class");
         testing_class[1].innerHTML = "class 2";
+
+        insertName = function ()  {
+            prompt("Masukkan nama anda : ");
+            alert(insert);
+        }; 
+        insertName();
     // </script>
