@@ -1,5 +1,16 @@
-{
-    "Type" : "Module",
-    "Owner" : "Teuku Reynaldi",
-    "Age" : 21
-}
+
+
+[
+    {
+    
+        "Type" : "Module",
+        "Owner" : "Teuku Reynaldi",
+        "Age" : 21
+    },
+    {
+        "Type" : "Module",
+        "Owner" :"Putra Irwansyah",
+        "Age" : 23
+    }
+]
+

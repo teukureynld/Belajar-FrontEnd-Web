@@ -28,3 +28,9 @@ function listPeople() {
 };
 
 listPeople();
+
+const x = " ";
+
+Boolean = x;
+
+console.log(x)

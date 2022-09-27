@@ -18,3 +18,11 @@ if (nilai2 > 82 && nilai2 <= 84) {
 } else if (nilai2 > 84 && nilai2 >= 85) {
     console.log("Nilai ini sudah pas untuk kriteria masuk sekolah")
 }
+
+const mycar = { make: "Honda", model: "Accord", year: 1998 };
+delete mycar.make;
+"make" in mycar; // returns false
+
+const trees = ["redwood", "bay", "cedar", "oak", "maple"];
+delete trees[3];
+3 in trees; // returns false
