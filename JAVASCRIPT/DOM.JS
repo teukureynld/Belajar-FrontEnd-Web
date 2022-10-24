@@ -13,10 +13,4 @@
 
         let testing_class = document.getElementsByClassName("testing_class");
         testing_class[1].innerHTML = "class 2";
-
-        insertName = function ()  {
-            prompt("Masukkan nama anda : ");
-            alert(insert);
-        }; 
-        insertName();
     // </script>

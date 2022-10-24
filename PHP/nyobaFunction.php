@@ -7,5 +7,4 @@ echo multiple(5,5);
 echo("\n");
 echo multiple(10,5);
 
-
 ?>
